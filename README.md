@@ -14,3 +14,4 @@ prueba tecnica arquitectura 3 capas.
 - Se integra la api de JWT 
 # Capa de datos
 Se crea la base de datos en Sql Server con dos tablas dbo.Usuarios con los procedimientos almacenados para un CRUD basico y dbo.Logs para almacenar los logs de las operaciones.
+![Bd](https://github.com/Gonz007/Assets/blob/aae81c7fb335c620f99b4ca37ede532103bce532/bdwcf.png)
