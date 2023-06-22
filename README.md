@@ -1,7 +1,7 @@
 # Prueba_Tecnica_WCF
 
 
-prueba tecnica arquitectura 3 capas.
+prueba tecnica arquitectura 3 capas que busca implementar operaciones crud, gestion de datos por procesos almacenados, seguridad y front.
 
 
 # Capa presentación
@@ -13,7 +13,7 @@ prueba tecnica arquitectura 3 capas.
 # Capa negocio
 - Se crean todos los metodos para realizar la conexion con los procedimientos almacenados en base de datos(bd).
 - Se adiciona un metodo con su respectiva conexion a bd que inserta logs de todas las operaciones CRUD que se hagan.
-- Se integra la api de JWT
+- Se integra la api de JWT para logueo al aplicativo.
 
 ![WCF](https://github.com/Gonz007/Assets/blob/39173b48435258698f05e49f0dfd1d59ee3406ad/wcf.png)
 # Capa de datos
