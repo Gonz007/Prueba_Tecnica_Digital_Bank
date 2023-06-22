@@ -11,6 +11,7 @@ prueba tecnica arquitectura 3 capas que busca implementar operaciones crud, gest
 
 ![Presentacion](https://github.com/Gonz007/Assets/blob/f1dfee7bf8a4d23751066369e62238115e711d3d/presentacion.png)
 # Capa negocio
+Se crea con Api Soat 
 - Se crean todos los metodos para realizar la conexion con los procedimientos almacenados en base de datos(bd).
 - Se adiciona un metodo con su respectiva conexion a bd que inserta logs de todas las operaciones CRUD que se hagan.
 - Se integra la api de JWT para logueo al aplicativo.
