@@ -13,7 +13,7 @@ prueba tecnica arquitectura 3 capas.
 - Se adiciona un metodo con su respectiva conexion a bd que inserta logs de todas las operaciones CRUD que se hagan.
 - Se integra la api de JWT
 
-![WCF](https://github.com/Gonz007/Assets/blob/aae81c7fb335c620f99b4ca37ede532103bce532/wcf.png)
+![WCF](https://github.com/Gonz007/Assets/blob/39173b48435258698f05e49f0dfd1d59ee3406ad/wcf.png)
 # Capa de datos
 Se crea la base de datos en Sql Server con dos tablas dbo.Usuarios con los procedimientos almacenados para un CRUD basico y dbo.Logs para almacenar los logs de las operaciones.
 
