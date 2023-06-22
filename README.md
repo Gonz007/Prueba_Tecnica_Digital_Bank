@@ -1,2 +1,6 @@
-# Prueba_Tecnica_Digital_Bank
-prueba tecnica desarrollada por Sebastián Gonzalo Ortiz Vera para la empresa Digital Bank.
+# Prueba_Tecnica_WCF
+
+
+prueba tecnica arquitectura 3 capas.
+#
+Este es un proyecto desarrollado 
