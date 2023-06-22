@@ -2,5 +2,9 @@
 
 
 prueba tecnica arquitectura 3 capas.
+# Capa presentación
 #
-Este es un proyecto desarrollado 
+# Capa negocio
+#
+# Capa de datos
+
